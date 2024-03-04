@@ -1,0 +1,1 @@
+interservice connection is happening due to 'rpc' provicded by grpc- i.e directly by same todo.proto file content-- or same protocol buffer definition.
